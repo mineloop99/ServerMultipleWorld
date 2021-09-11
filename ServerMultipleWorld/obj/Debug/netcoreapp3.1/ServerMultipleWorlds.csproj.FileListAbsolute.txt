@@ -1,0 +1,11 @@
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\obj\Debug\netcoreapp3.1\ServerMultipleWorlds.AssemblyInfoInputs.cache
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\obj\Debug\netcoreapp3.1\ServerMultipleWorlds.AssemblyInfo.cs
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\bin\Debug\netcoreapp3.1\ServerMultipleWorlds.exe
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\bin\Debug\netcoreapp3.1\ServerMultipleWorlds.deps.json
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\bin\Debug\netcoreapp3.1\ServerMultipleWorlds.runtimeconfig.json
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\bin\Debug\netcoreapp3.1\ServerMultipleWorlds.runtimeconfig.dev.json
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\bin\Debug\netcoreapp3.1\ServerMultipleWorlds.dll
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\bin\Debug\netcoreapp3.1\ServerMultipleWorlds.pdb
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\obj\Debug\netcoreapp3.1\ServerMultipleWorlds.dll
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\obj\Debug\netcoreapp3.1\ServerMultipleWorlds.pdb
+D:\UnityProject\ServerMultipleWorld\ServerMultipleWorld\obj\Debug\netcoreapp3.1\ServerMultipleWorlds.csprojAssemblyReference.cache
